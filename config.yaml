@@ -1,0 +1,10 @@
+---
+baseURL: 'https://andrewich.github.io'
+theme: 'ananke'
+defaultContentLanguage: 'ru'
+defaultContentLanguageInSubdir: true
+languages:
+  ru:
+    title: 'Мой персональный блог'
+  en:
+    title: 'Personal Blog'
