@@ -2,9 +2,10 @@
 baseURL: 'https://andrewich.github.io'
 theme: 'ananke'
 defaultContentLanguage: 'ru'
-defaultContentLanguageInSubdir: true
 languages:
   ru:
     title: 'Мой персональный блог'
+    weight: 1
   en:
     title: 'Personal Blog'
+    weight: 2
